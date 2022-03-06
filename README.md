@@ -5,7 +5,7 @@ Programa para limpieza de computadores. Creado con el fin de facilitar la optimi
 ## Descarga el .exe
 
 ```bash
-git clone https://github.com/juanesvelez/poli-preguntas.git
+https://github.com/Richthofen-Studios-Lab/Clean-PC/blob/main/Clean%20PC.exe
 ```
 
 ## Iniciar el programa
