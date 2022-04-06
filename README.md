@@ -1,5 +1,5 @@
 ## CLEAN-PC
-Programa para limpieza de computadores. Creado con el fin de facilitar la optimización de tu equipo  a partir del lenguaje Batch
+Programa de limpieza y optimización de computadores. Creado con el fin de facilitar la optimización de tu equipo  a partir del lenguaje Batch
 
 
 ## Descarga el .exe
