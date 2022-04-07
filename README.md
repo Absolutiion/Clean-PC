@@ -10,7 +10,7 @@ https://github.com/Richthofen-Studios-Lab/Clean-PC/blob/main/Clean%20PC.exe
 
 ## Iniciar el programa
 
-El programa esta empaquetado como .exe con la facilidad de ejecutar sin instalar desde cualquier equipo
+El programa esta empaquetado como .exe con la facilidad de ejecutar sin instalar desde cualquier equipo pero recuerda car click derecho y abrir como administrador para acceder a todas las funciones
 
 ```bash
 Clean PC.exe
