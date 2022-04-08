@@ -29,5 +29,5 @@ Puedes escoger entre 7 opciones de limpieza solo oprimiendo el numero que escoja
 ----------------------------------------
 ## Propiety: Richthofen Studios
 ## Created:  AAAQ
-## Version: 0.3.22
+## Version: 0.4.22
 --------------------------------------
